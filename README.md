@@ -5,7 +5,8 @@ Desenvolvedor Full Stack com 5 anos de experiência em criar soluções e resolv
 ## 🚀 Sobre Mim
 
 - 🎂 **Idade:** 24 anos
-- 🎓 **Educação:** Engenharia da Computação na UNIPAR (em andamento)
+- 🎓 **Educação:** Engenharia da Computação na UNIPAR
+- 🎓 **Educação:** B7Web cursos de programação 
 - 💼 **Experiência:** Desenvolvimento web com metodologias ágeis (Scrum e Kanban)
 - 🌐 **Localização:** Douradina-PR, Brasil
 
