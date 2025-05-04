@@ -1,74 +1,84 @@
-# Olá! Eu sou o João Vitor 👋
+<h1 align="center">Fala dev! 👋 Eu sou o João Vitor</h1>
 
-Desenvolvedor Full Stack com 5 anos de experiência em criar soluções e resolver problemas complexos. Sempre em busca de aprendizado contínuo e novas oportunidades para aplicar minhas habilidades.
+<p align="center">
+  Desenvolvedor Full Stack • Fundador da <a href="https://jztech.com.br">JZ Tech</a> • Criador de soluções reais e funcionais
+</p>
 
-## 🚀 Sobre Mim
-
-- 🎂 **Idade:** 24 anos
-- 🎓 **Educação:** Engenharia da Computação na UNIPAR
-- 🎓 **Educação:** B7Web cursos de programação 
-- 💼 **Experiência:** Desenvolvimento web com metodologias ágeis (Scrum e Kanban)
-- 🌐 **Localização:** Douradina-PR, Brasil
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-</div>
+<p align="center">
+  <a href="https://joaosn.jztech.com.br">Portfólio</a> •
+  <a href="https://github.com/joaosn">GitHub</a> •
+  <a href="mailto:jv.zyzz.legado@gmail.com">E-mail</a>
+</p>
 
 ---
 
-## 💼 Experiência Profissional
+## ⚡ Sobre Mim
 
-**Desenvolvedor Web**
-
-- Experiência com metodologias ágeis Scrum e Kanban
-- Atuação em projetos de diferentes escalas, buscando soluções ágeis e de alta qualidade
-- Competência na análise e resolução de problemas em diversas áreas, como vendas, financeiro, contabilidade, entre outras
-
-**Sustentação e Evolução:**
-
-- Resolução de chamados envolvendo diversas tecnologias e sistemas
-- Manutenção e correção de bugs em segmentos como vendas, financeiro, contabilidade, entre outros
-
-**Administração de Servidores:**
-
-- Configuração e gerenciamento de servidores próprios, incluindo hospedagem compartilhada e VPS
-- Experiência em mover aplicações para ambientes de produção, enfrentando desafios e solucionando problemas
+- 🎓 Engenharia da Computação - UNIPAR  
+- 👨‍💻 Mais de 5 anos criando sistemas web escaláveis  
+- 🧠 Foco atual: Clean Architecture, DevOps e boas práticas  
+- 🌱 Estudando: automações avançadas, workers e mensageria  
+- 🏠 Localização: Douradina - PR, Brasil
 
 ---
 
-## 🎓 Educação
+## 🛠️ Minhas Skills
 
-- **Engenharia da Computação** - Universidade Paranaense (UNIPAR) - Em andamento desde janeiro de 2019
-- **Desenvolvimento Web** - B7-Web - Em andamento desde janeiro de 2018
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,mysql,tailwind,docker,linux,git,electron,vscode,nodejs" />
+</p>
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaosn&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosn&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
-## 📫 Contato
+## 🏆 Conquistas
 
-<div align="center">
-  <a href="mailto:jv.zyzz.legado@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://joaosn.grsistemas.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-222222?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joaosn&theme=gruvbox&margin-w=15&no-frame=true" />
+</p>
 
 ---
+
+## 🚀 Projetos em Destaque
+
+| Projeto | Stack | Descrição |
+|--------|--------|-----------|
+| **ClickJoias** | TypeScript | Sistema robusto de vendas, estoque e financeiro |
+| **ClickExpress** | TypeScript | Pedidos e comanda para restaurantes |
+| **ZeroPapel** | TypeScript | Armazenamento na nuvem por cliente e tipo de doc |
+| **PontoCheck** | TypeScript | Controle de ponto prático e leve |
+| **CobraRápido** | TypeScript | Geração de boletos e cobranças automatizadas |
+| **SenseiSuite** | TypeScript | ERP modular com foco em ordens de serviço |
+| **Excavatrack** | PHP | Controle de frota com rastreio e manutenção |
+| **Landing Page JZ Tech** | TypeScript | Página institucional com layout moderno |
+| **Prayer** | JavaScript | Envio de comandos para impressoras via WebSocket |
+| **Gerenciador Impressão JV** | JavaScript | Criação e envio automático de PDFs com prefixos |
+| **Gerenciador Balança** | JavaScript | Comunicação com balança Urano 305 e geração de etiquetas |
+
+> ⚠️ Alguns repositórios são privados por conter código em produção.
+
+---
+
+## 📫 Entre em Contato
+
+<p align="center">
+  <a href="mailto:jv.zyzz.legado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://joaosn.jztech.com.br"><img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+</p>
+
+---
+
+## 🐍 Snake dos Commits
+
+<p align="center">
+  <img src="https://github.com/joaosn/joaosn/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
